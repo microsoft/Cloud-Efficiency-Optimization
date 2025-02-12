@@ -1,14 +1,20 @@
-# Project
+# Cloud Efficiency Optimization 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository includes material to accompany the paper "Efficient Cloud Server Deployment Under Demand Uncertainty".
 
-As the maintainer of this project, please make a few updates:
+## Citation
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Please cite the paper if you use this data in your own work:
+```latex
+@article{liu2025efficient,
+  title={Efficient Cloud Server Deployment Under Demand Uncertainty},
+  author={Liu, Rui Peng and Mellou, Konstantina and Gong, Evelyn Xiao-Yue and Li, Beibin and Coffee, Thomas and Pathuri, Jeevan and Simchi-Levi, David and Menache, Ishai},
+  journal={Manufacturing \& Service Operations Management},
+  year={2025}
+  publisher={INFORMS}
+}
+```
+
 
 ## Contributing
 
